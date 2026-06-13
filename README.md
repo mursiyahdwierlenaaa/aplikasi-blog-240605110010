@@ -123,9 +123,9 @@ php artisan serve
 ```
 
 11. Akses Aplikasi
-  ``` Halaman Pengunjung : http://localhost:8000 ``` 
-  ``` Halaman Login CMS : http://localhost:8000/login ```
-  ``` Dashboard CMS : http://localhost:8000/dashboard ```
+ Halaman Pengunjung : ``` http://localhost:8000 ``` 
+ Halaman Login CMS : ``` http://localhost:8000/login ```
+ Dashboard CMS : ```http://localhost:8000/dashboard ```
 
 ---
 Catatan Penting
