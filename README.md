@@ -1,9 +1,9 @@
 Aplikasi Blog Laravel
 ---
-Nama Lengkap : Mursiyah Dwi Erlena
-NIM : 240605110010
-Mata Kuliah : Web Programming B
-Dosen Pengampu : A'la Syauqi, M.Kom
+- Nama Lengkap : Mursiyah Dwi Erlena
+- NIM : 240605110010
+- Mata Kuliah : Web Programming B
+- Dosen Pengampu : A'la Syauqi, M.Kom
 
 ---
 Deskripsi Singkat Aplikasi
@@ -123,9 +123,9 @@ php artisan serve
 ```
 
 11. Akses Aplikasi
-  Halaman Pengunjung : http://localhost:8000 
-  Halaman Login CMS : http://localhost:8000/login 
-  Dashboard CMS : http://localhost:8000/dashboard 
+  ``` Halaman Pengunjung : http://localhost:8000 ``` 
+  ``` Halaman Login CMS : http://localhost:8000/login ```
+  ``` Dashboard CMS : http://localhost:8000/dashboard ```
 
 ---
 Catatan Penting
